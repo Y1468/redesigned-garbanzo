@@ -1,0 +1,36 @@
+form{
+ margin: 12px;
+ text-align:center;
+}
+
+input{
+ width: 250px;
+ padding:6px;
+ margin: 3px;
+ border-radius:8px;
+ border: 1px #444 solid;
+
+}
+
+div,a{
+  text-align: center;   
+}
+
+.btn{
+  background: blue;
+  color: #fff;
+  border: none;
+}
+
+.btn:hover{
+  opacity: 0.8;
+  cursor:pointer;
+}
+
+#acessar{
+ background: #3498db;
+}
+
+#cadastrar{
+background: #27ae60;
+}
